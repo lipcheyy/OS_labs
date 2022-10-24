@@ -22,7 +22,7 @@
 ![](img/wordpressPage.jpg)
 
 ![](img/wordpressPage2.jpg)
-![](img/wordpressPage2.jpg)
+
 
 <hr>
 
