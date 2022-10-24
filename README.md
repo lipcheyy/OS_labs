@@ -65,7 +65,7 @@
     docker run -d -p 80:80 labwork
 ```
 
-![](img/htmlBuild.jpg)
+![](img/htmlBuild.jpeg)
 
 Результат
 
