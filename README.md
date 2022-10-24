@@ -60,7 +60,10 @@
     
         FROM nginx:alpine
         COPY . /usr/share/nginx/html
-Далі створюємо образ labwork і розгортаємо його на порті 8080
+Далі створюємо образ labwork і розгортаємо його на порті 80:80
+```
+    docker run -d -p 80:80 labwork
+```
 
 ![](img/htmlBuild.jpg)
 
