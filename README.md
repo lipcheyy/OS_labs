@@ -62,6 +62,7 @@
         COPY . /usr/share/nginx/html
 Далі створюємо образ labwork і розгортаємо його на порті 80:80
 ```
+    docker build -t labwork .
     docker run -d -p 80:80 labwork
 ```
 
