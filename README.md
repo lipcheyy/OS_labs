@@ -74,8 +74,13 @@
 
 ![](img/dockerHub.jpg)
 
+<<<<<<< HEAD
 Далі створюю ще 1 образ з таким самим іменем, але перед назвою дописую назву свого акаунту на docker hub пушу на віддалений репозиторій
 
+=======
+Далі пушу на віддалений репозиторій
+.
+>>>>>>> 9f3229e69f77d8d75bb6ca85aee4bcf9c5d4489f
 ![](img/dockerPush.jpg)
 Посилання на [репозиторій](https://hub.docker.com/repository/docker/vladlipchey/labwork)
 <hr>
