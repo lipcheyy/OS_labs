@@ -67,5 +67,5 @@
 ![](img/dockerHub.jpg)
 
 Далі пушу на віддалений репозиторій
-
+.
 ![](img/dockerPush.jpg)
