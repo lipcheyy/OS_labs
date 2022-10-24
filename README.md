@@ -93,4 +93,5 @@
 ```
     docker run -d -p 8086:80 regond/lab
 ```
+.
 ![](img/tkach.jpg)
